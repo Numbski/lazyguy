@@ -32,7 +32,7 @@ import winnipegJets from './logos/winnipeg-jets.png';
 
 export function getTeamLogo(teamName) {
     switch (teamName) {
-        case 'AnaheimDucks':
+        case 'Anaheim Ducks':
             return anaheimDucks;
         case 'Arizona Coyotes':
             return arizonaCoyotes;
